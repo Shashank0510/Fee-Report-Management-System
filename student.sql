@@ -11,4 +11,3 @@ due varchar (20) not null,
 city varchar(20) not null
 );
 
-Select * from Students;
