@@ -8,4 +8,3 @@ PRIMARY KEY(id)
 );
 INSERT INTO authentication (id, aname, passcode)
 VALUES (1, 'admin', 'admin123');
-select * from authentication;
